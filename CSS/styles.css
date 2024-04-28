@@ -626,14 +626,14 @@ html::-webkit-scrollbar-thumb{
     transform: translateY(0);
 }
 .projects-desc h1{
-    font-size: 32px;
+    font-size: 28px;
     font-weight: 700;
     letter-spacing: 2px;
     color: white;
 }
 
 .projects-desc p{
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 100;
     color: white;
     line-height: 1;
@@ -661,12 +661,12 @@ html::-webkit-scrollbar-thumb{
     }
 
     .projects-desc h1{
-        font-size: 28px;
+        font-size: 25px;
         color: white;
     }
 
     .projects-desc p{
-        font-size: 16px;
+        font-size: 14px;
         color: white;
     }
     
